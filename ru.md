@@ -14,6 +14,8 @@ Tech Lead с опытом более 18 лет в IT, из них более 11 
 
 Ключевые результаты: управление отделом 40+ человек, участие в найме около 100 специалистов в X5, запуск и развитие внутренних продуктов для 500+ ежедневных пользователей, нагрузка до 100 RPS, пользовательская оценка 4,3/5,0, автоматизация процессов с эффектом до 20 FTE за квартал и суммарно до 100 FTE в год по оценке бизнеса.
 
+**Ai-tools**: AI Engineering: RAG / Agentic RAG, AI Agents & Harnesses, MCP, Tool Calling, Context Engineering, Embeddings & Vector Search, LLM Orchestration, Structured Outputs, Evals & Guardrails, AI-assisted SDLC.
+
 ---
 
 ## Ключевые компетенции
